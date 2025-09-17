@@ -1,2 +1,16 @@
-# Real-time-image-to-sketch-Animation
-A Python-based computer vision project 🐍 that converts images 🖼️ into real-time pencil sketch animations ✏️🎨. The project uses OpenCV and NumPy to detect edges 🖌️, generate contours 🔲, and animate strokes in a natural top-to-bottom order ⬇️ with realistic pencil shading ✏️💡.
+# Real-time Pencil Sketch Animation ✏️🖼️
+
+Convert images into realistic animated pencil sketches using Python 🐍 and OpenCV. This project demonstrates advanced image processing and real-time animation techniques suitable for creative and educational applications 🎓🎨.
+
+## Features
+
+- **Real-time sketch animation ⏱️**: Converts images into animated pencil sketches.
+- **Pencil shading effect ✏️💡**: Generates smooth, realistic shading for a hand-drawn look.
+- **Stroke-order animation 🔽**: Animates contours from top-to-bottom for natural drawing.
+- **Lightweight and efficient ⚡**: Works without neural networks.
+
+## Tech Stack 🛠️
+
+- Python 3.x 🐍
+- OpenCV 📸
+- NumPy 🔢
