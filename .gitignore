@@ -1,1 +1,7 @@
 .vscode/
+
+# Output files
+*.mp4
+*.gif
+*.jpg
+*.png
